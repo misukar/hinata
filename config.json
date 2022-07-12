@@ -1,14 +1,14 @@
 {
-  "ownerNumber": ["6285791458996@s.whatsapp.net"],
-  "ownerName": ["Riy"],
-  "botName": "Hinata Hyuga Bot",
-  "youtubeOwner": "https://youtube.com/c/Riy",
-  "donasiDana": "081575886399",
-  "donasiGopay": "081575886399",
+  "ownerNumber": ["628818507997@s.whatsapp.net"],
+  "ownerName": ["Fauzan"],
+  "botName": "boty",
+  "youtubeOwner": "https://youtube.com/c/_",
+  "donasiDana": "08818507997",
+  "donasiGopay": "08818507997",
   "sessionName": "session",
   "pathimg": "./media/hinata.jpg",
   "gamewaktu": 90,
-  "limitCount": 25,
+  "limitCount": 20,
   "gcount": {
 	"prem": 35,
 	"user": 15
